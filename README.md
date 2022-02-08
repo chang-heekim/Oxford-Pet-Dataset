@@ -17,6 +17,7 @@
     
     <img src='https://github.com/chang-heekim/Oxford-Pet-Dataset/blob/main/images/location.png'>
     
+# Used Model
   - In basic and multi classification, used ResNet
   - In 2 and 3 class segmentation, used UNet
   - In image localization, used pretrained moblienetv2
