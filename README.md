@@ -17,7 +17,7 @@
     
     <img src='https://github.com/chang-heekim/Oxford-Pet-Dataset/blob/main/images/location.png'>
     
-  <b>[Open Code](/Oxford_Pet_Dataset-EDA.ipynb)</b>
+    <b>[Open EDA Code](/Oxford_Pet_Dataset-EDA.ipynb)</b>
   
 # Used Model
   - In basic and multi classification, used ResNet
