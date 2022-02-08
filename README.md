@@ -23,5 +23,3 @@
   - In basic and multi classification, used ResNet
   - In 2 and 3 class segmentation, used UNet
   - In image localization, used pretrained moblienetv2
-
-  
