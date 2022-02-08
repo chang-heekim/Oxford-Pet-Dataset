@@ -7,3 +7,11 @@
   - Sample Images
   
     <img src='https://github.com/chang-heekim/Oxford-Pet-Dataset/blob/main/images/oxford_image.png'>
+
+  - Sample Segmentation Images
+    
+    <img src='https://github.com/chang-heekim/Oxford-Pet-Dataset/blob/main/images/segmentation.png'>
+    
+  - Sample Segmentation Images
+    
+    <img src='https://github.com/chang-heekim/Oxford-Pet-Dataset/blob/main/images/location.png'>
